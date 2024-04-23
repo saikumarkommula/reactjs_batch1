@@ -1,0 +1,43 @@
+React Js :
+----------------
+class -1
+
+HTML,CSS,JavaScript :
+
+1.who can learn React Js
+
+1.React Js :--
+---------------------
+1.React Js Is a Open Source javascript libraury developed by facebook( Jordan walke).
+2.Released in 2013
+3.latest version 18.2.0
+
+4. reusable ui components :
+5.SINGLE PAGE Aplication 
+6.Component Based 
+ 
+Rendering :
+7.It uses Virtual DOM :
+
+8.DOM - - tree format 
+
+9.Easy to learn
+
+------------------------------------
+Creating React App :
+
+requrements :
+---------------
+1.nodejs
+2.vs code
+*
+3.create react app :
+ npx create-reaxt-app <Giveappname>
+ npx create-react-app amazon
+4.Start react app
+npm start
+
+5 . jsx files
+
+
+
